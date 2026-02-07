@@ -66,7 +66,9 @@ Agriculture assistant system designed for monitoring and support.
 </td>
 
 <td>
-<img src="images/android-1.png" width="250"/>
+<img src="android-1.png" width="250"/>
+<img src="android-2.png" width="250"/>
+<img src="android-3.png" width="250"/>
 </td>
 </tr>
 </table>
@@ -83,7 +85,9 @@ Housing management and listing system.
 </td>
 
 <td>
-<img src="images/happyhomes-1.png" width="250"/>
+<img src="happyhomes-1.png" width="250"/>
+<img src="happyhomes-2.png" width="250"/>
+<img src="happyhomes-3.png" width="250"/>
 </td>
 </tr>
 </table>
@@ -100,7 +104,9 @@ Cinema booking and dashboard interface.
 </td>
 
 <td>
-<img src="images/cinema-1.png" width="250"/>
+<img src="cinema-1.png" width="250"/>
+<img src="cinema-2.png" width="250"/>
+<img src="cinema-3.png" width="250"/>
 </td>
 </tr>
 </table>
@@ -117,7 +123,9 @@ Barangay record and service management system.
 </td>
 
 <td>
-<img src="images/barangay-1.png" width="250"/>
+<img src="barangay-1.png" width="250"/>
+<img src="barangay-2.png" width="250"/>
+<img src="barangay-3.png" width="250"/>
 </td>
 </tr>
 </table>
@@ -127,9 +135,9 @@ Barangay record and service management system.
 # 🎨 UI/UX Works
 
 <p align="center">
-<img src="images/uiux-1.png" width="30%"/>
-<img src="images/uiux-2.png" width="30%"/>
-<img src="images/uiux-3.png" width="30%"/>
+<img src="uiux-1.png" width="30%"/>
+<img src="uiux-2.png" width="30%"/>
+<img src="uiux-3.png" width="30%"/>
 </p>
 
 ---
@@ -137,10 +145,10 @@ Barangay record and service management system.
 # 📜 Certifications
 
 <p align="center">
-<img src="images/ServiceNow.jpg" width="250"/>
-<img src="images/SecurityPrivacy.jpg" width="250"/>
-<img src="images/ProjectManagement.jpg" width="250"/>
-<img src="images/GenerativeAI.jpg" width="250"/>
+<img src="ServiceNow.jpg" width="250"/>
+<img src="SecurityPrivacy.jpg" width="250"/>
+<img src="ProjectManagement.jpg" width="250"/>
+<img src="GenerativeAI.jpg" width="250"/>
 </p>
 
 ---
@@ -155,11 +163,6 @@ Barangay record and service management system.
 ---
 
 # 💼 Experience
-
-### 🛵 Foodpanda Rider (2024 – Present)
-• Time management  
-• Customer service under pressure  
-• Following operational procedures  
 
 ### 🛒 Small Business Operator
 • Managed sales and daily operations  
