@@ -1,93 +1,194 @@
-# My Portfolio
+<!-- ===== HERO SECTION ===== -->
+<h1 align="center">Hi 👋 I'm Ronald Airon S. Torres</h1>
+<h3 align="center">💻 Aspiring Software & Web Developer | 🎨 UI/UX Enthusiast</h3>
 
-## Hi, I'm Ronald Airon S. Torres
-**Bachelor of Science in Information Technology (BSIT)**  
-Eulogio “Amang” Rodriguez Institute of Science and Technology (EARIST – Manila)  
-📍 Tondo, Manila  
-
----
-
-## About Me
-I am a motivated BSIT student seeking an On-the-Job Training (OJT) opportunity.  
-I have foundational knowledge in software development, web technologies, and UI/UX design, combined with strong documentation, research, and creative design skills. I am a self-driven learner with hands-on academic projects, industry webinars, and diverse work experience that demonstrate adaptability, responsibility, and strong work ethic.
+<p align="center">
+BSIT Student • EARIST Manila • OJT Applicant
+</p>
 
 ---
 
-## Area of Expertise
-- Software Development: C, C++, Python (basic), Java (basic)  
-- Web Development & Design: React, Django (basic)  
-- UI/UX Design & Website Layout  
-- Graphic Design: Canva  
-- Technical Documentation & Thesis Writing  
-- Basic Database & Local Server Setup: XAMPP  
-- Self-Learning & Independent Coding Practice  
+# 🧑‍💻 About Me
+
+I am a motivated **BSIT student** seeking an **On-the-Job Training (OJT)** opportunity.
+
+I have foundational knowledge in **software development, web technologies, and UI/UX design**, combined with strong documentation, research, and creative design skills.
+
+✨ Self-driven learner  
+✨ Hands-on academic project experience  
+✨ Strong work ethic and adaptability  
 
 ---
 
-## Key Achievements & Activities
-- 🏆 2nd Place – UI/UX Design Competition (Department & School Level)  
-- Designed UI/UX interfaces and website layouts for academic projects  
-- Created short films and multimedia outputs for school requirements  
-- Self-studied programming concepts beyond coursework  
-- Assisted in system documentation, research papers, and thesis formatting  
+# 🚀 Tech Stack & Tools
+
+<h3 align="center">Frontend • Backend • Tools • Platforms</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/>
+<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,vscode,linux,vercel,nginx"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma"/>
+<img src="https://img.shields.io/badge/Canva-blueviolet?style=for-the-badge&logo=canva"/>
+<img src="https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=ubuntu"/>
+</p>
 
 ---
 
-## Experience
+# 💼 Featured Projects
 
-### Foodpanda – Delivery Rider (2024 – Present)
-- Demonstrated strong time management and reliability  
-- Maintained customer service quality under pressure  
-- Followed platform procedures and safety standards  
+## 🌱 AgriAssist
+<table>
+<tr>
+<td width="60%">
 
-### Small Business Operator – Family-Owned Business
-- Managed a sisig food stand, cosmetics, and perfume sales  
-- Handled daily operations, sales, and customer interaction  
-- Developed basic business, communication, and problem-solving skills  
+Agriculture assistant system designed for monitoring and support.
 
-### Part-Time & Labor Roles (Catering Boy, General Labor)
-- Adapted quickly to various tasks  
-- Worked effectively in team-based environments  
+**Tech Used:** Web + UI/UX Design  
+**Role:** Developer / Designer  
 
----
+</td>
 
-## Education
-
-**Bachelor of Science in Information Technology (BSIT)**  
-Eulogio “Amang” Rodriguez Institute of Science and Technology (EARIST)  
-2022 – Present  
-
-Relevant Coursework:
-- Software Engineering  
-- Web Development  
-- Database Management  
-- Systems Integration  
-- UI/UX Design  
-
-**Bachelor of Science in Information Technology (1st Year)**  
-Saint Jude College  
-2022 – 2023  
-
-**Senior High School**  
-Universidad de Manila (UDM)  
+<td>
+<img src="images/android-1.png" width="250"/>
+</td>
+</tr>
+</table>
 
 ---
 
-## Certifications & Webinars
-- ServiceNow Fundamentals & Platform Automation  
-- Generative AI in Software Development (Professional Webinar)  
-- Data Privacy & Security Awareness (Technical Webinar)  
-- Project Management Methodologies (Technical Webinar)  
+## 🏠 HappyHomes
+<table>
+<tr>
+<td width="60%">
+
+Housing management and listing system.
+
+</td>
+
+<td>
+<img src="images/happyhomes-1.png" width="250"/>
+</td>
+</tr>
+</table>
 
 ---
 
-## Additional Information
-- Languages: English, Tagalog  
-- Strengths: Fast learner, adaptable, detail-oriented, strong documentation skills  
-- Willing to learn and accept mentorship during OJT  
+## 🎬 Cinema System
+<table>
+<tr>
+<td width="60%">
+
+Cinema booking and dashboard interface.
+
+</td>
+
+<td>
+<img src="images/cinema-1.png" width="250"/>
+</td>
+</tr>
+</table>
 
 ---
 
-## Contact
-📧 Email: torres.r.bsinfotech@gmail.com  
-📍 Location: Tondo, Manila  
+## 🏛 Barangay System
+<table>
+<tr>
+<td width="60%">
+
+Barangay record and service management system.
+
+</td>
+
+<td>
+<img src="images/barangay-1.png" width="250"/>
+</td>
+</tr>
+</table>
+
+---
+
+# 🎨 UI/UX Works
+
+<p align="center">
+<img src="images/uiux-1.png" width="30%"/>
+<img src="images/uiux-2.png" width="30%"/>
+<img src="images/uiux-3.png" width="30%"/>
+</p>
+
+---
+
+# 📜 Certifications
+
+<p align="center">
+<img src="images/ServiceNow.jpg" width="250"/>
+<img src="images/SecurityPrivacy.jpg" width="250"/>
+<img src="images/ProjectManagement.jpg" width="250"/>
+<img src="images/GenerativeAI.jpg" width="250"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+🥈 2nd Place – UI/UX Design Competition  
+🎨 Designed UI and Website Layouts for Academic Projects  
+🎬 Created Multimedia & Short Film School Outputs  
+📚 Self-studied Programming Beyond Coursework  
+
+---
+
+# 💼 Experience
+
+### 🛵 Foodpanda Rider (2024 – Present)
+• Time management  
+• Customer service under pressure  
+• Following operational procedures  
+
+### 🛒 Small Business Operator
+• Managed sales and daily operations  
+• Customer handling  
+• Business problem solving  
+
+---
+
+# 🎓 Education
+
+**BS Information Technology**  
+EARIST Manila (2022 – Present)
+
+Relevant:
+- Software Engineering
+- Web Development
+- Database Management
+- UI/UX Design
+
+---
+
+# 🌍 Additional Info
+
+**Languages:** English, Tagalog  
+**Strengths:** Fast learner • Adaptable • Detail-oriented  
+
+---
+
+# 📫 Contact
+
+📧 torres.r.bsinfotech@gmail.com  
+📍 Tondo, Manila
