@@ -8,7 +8,7 @@ BSIT Student • EARIST Manila • OJT Applicant
 
 ---
 
-# 🧑‍💻 About Me
+# About Me
 
 I am a motivated **BSIT student** seeking an **On-the-Job Training (OJT)** opportunity.
 
@@ -53,42 +53,22 @@ I have foundational knowledge in **software development, web technologies, and U
 
 # 💼 Featured Projects
 
-## 🌱 AgriAssist
-<table>
-<tr>
-<td width="60%">
-
-Agriculture assistant system designed for monitoring and support.
-
-**Tech Used:** Web + UI/UX Design  
-**Role:** Developer / Designer  
-
-</td>
-
-<td>
-<img src="android-1.png" width="250"/>
-<img src="android-2.png" width="250"/>
-<img src="android-3.png" width="250"/>
-</td>
-</tr>
-</table>
-
----
+--- 
 
 ## 🏠 HappyHomes
 <table>
 <tr>
 <td width="60%">
 
-Housing management and listing system.
+Subdivision Management & Reservation System - Capstone Project 2025 - 2026
 
 </td>
 
-<td>
-<img src="happyhomes-1.png" width="250"/>
-<img src="happyhomes-2.png" width="250"/>
-<img src="happyhomes-3.png" width="250"/>
-</td>
+<p align="center">
+<img src="happyhomes-1.png" width="30%"/>
+<img src="happyhomes-2.png" width="27%"/>
+<img src="happyhomes-3.png" width="30%"/>
+</p>
 </tr>
 </table>
 
@@ -99,15 +79,15 @@ Housing management and listing system.
 <tr>
 <td width="60%">
 
-Cinema booking and dashboard interface.
+Cinema Reservation / Booking and Admin Dashboard interface System. 2024 - 2025
 
 </td>
 
-<td>
-<img src="cinema-1.png" width="250"/>
-<img src="cinema-2.png" width="250"/>
-<img src="cinema-3.png" width="250"/>
-</td>
+<p align="center">
+<img src="cinema-1.png" width="30%"/>
+<img src="cinema-2.png" width="30%"/>
+<img src="cinema-3.png" width="30%"/>
+</p>
 </tr>
 </table>
 
@@ -118,15 +98,15 @@ Cinema booking and dashboard interface.
 <tr>
 <td width="60%">
 
-Barangay record and service management system.
+Barangay Record, Certificate, and Services Management System. 2025 - 2026
 
 </td>
 
-<td>
-<img src="barangay-1.png" width="250"/>
-<img src="barangay-2.png" width="250"/>
-<img src="barangay-3.png" width="250"/>
-</td>
+<p align="center">
+<img src="barangay-2.png" width="30%"/>
+<img src="barangay-1.png" width="30%"/>
+<img src="barangay-3.png" width="30%"/>
+</p>
 </tr>
 </table>
 
@@ -139,6 +119,28 @@ Barangay record and service management system.
 <img src="uiux-2.png" width="30%"/>
 <img src="uiux-3.png" width="30%"/>
 </p>
+
+---
+
+## 🌱 AgriAssist
+<table>
+<tr>
+<td width="60%">
+
+Agriculture assistant system designed for monitoring and support our own country / farmers that works hard for us. 2023 - 2024
+
+**Tech Used:** Web + UI/UX Design  
+**Role:** Developer / Designer  
+
+</td>
+
+<td>
+<img src="android-3.png" width="100"/>
+<img src="android-2.png" width="100"/>
+<img src="android-1.png" width="200"/>
+</td>
+</tr>
+</table>
 
 ---
 
